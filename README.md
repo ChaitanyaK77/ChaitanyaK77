@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Chaitanya Kakade
+
 
 <!--
 **ChaitanyaK77/ChaitanyaK77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🌐 You can connect with me here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chaitanya77kakade/)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@kakadechaitanya77)
+&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HrkDx6EAAAAJ&hl=en)
+
