@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm Chaitanya
 
-
-
-
 ### 🌐 You can connect with me here:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C2A8?logo=vercel&logoColor=white)](https://datascience-portfolio-five.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chaitanya77kakade/)
 &nbsp;
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@kakadechaitanya77)
@@ -15,4 +14,3 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HrkDx6EAAAAJ&hl=en)
 &nbsp;
 [![AlphaXiv](https://img.shields.io/badge/AlphaXiv.io-purple?logo=readthedocs&logoColor=white)](https://chaitanya.alphaxiv.io/)
-
